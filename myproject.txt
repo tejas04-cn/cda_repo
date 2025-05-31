@@ -3,3 +3,5 @@ second line Mango -- Bangalore
 Third line -- Bangalore
 Fourth line -- Bangalore
 Fifth line -- Banana
+Sixth -- Apple -- Mumbai
+Seventh -- Carrot -- Mumbai 
